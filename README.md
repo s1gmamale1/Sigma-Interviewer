@@ -35,6 +35,9 @@ adapters/
 examples/
   transcript-sample.txt   # Synthetic interview transcript (fictional candidate)
   sample-report.md        # The report Sigma Interviewer produces from it
+tests/
+  README.md               # Regression test pack (run after editing the prompt)
+  01..05-*.md             # Behavior cases + gold outputs (synthetic)
 ```
 
 ## See it in action
