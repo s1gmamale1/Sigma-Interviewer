@@ -1,6 +1,12 @@
 # Adapter: Hermes
 
-Hermes agents take a system message / persona that defines behavior and tool use. Use **`AGENT.md`** as that system message.
+Hermes agents take a system message / persona that defines behavior and tool use.
+
+## Recommended: the ready-to-paste "Sigma HR" prompt
+For a Telegram/Hermes hiring worker, use **[`hermes-system-prompt.md`](hermes-system-prompt.md)** — a single self-contained system message (persona + full operating manual + guardrails: injection resistance, audio-only-after-transcription, PII protection, human-approval). Paste everything below its header line into the agent's system-message field. No other files required.
+
+## Generic: use AGENT.md
+Or use the platform-agnostic **`AGENT.md`** as the system message.
 
 ## Install
 Register `AGENT.md` as the Hermes agent's **system prompt / persona**:
