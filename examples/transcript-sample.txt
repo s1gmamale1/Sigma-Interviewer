@@ -1,0 +1,53 @@
+SYNTHETIC EXAMPLE — fictional candidate "Jasur". Not a real person. No speaker labels
+(as in real whisper.cpp output): questions/pitch = interviewer, answers = candidate.
+
+ Hello, my name is Abdulaziz, I am the team lead of the product development team here.
+ Can you introduce yourself? You are comfortable in English?
+ Yes, I am comfortable. My name is Jasur. I am a second year computer science student.
+ How old are you?
+ I am 20 years old.
+ Okay, so what is your specialty, which part of development?
+ Mostly backend. I work with Python, FastAPI, and PostgreSQL. I also know some React for frontend.
+ Backend, good. Have you built any real projects, freelance or personal?
+ Yes. My biggest one is a Telegram mini-app for a local gym, for booking classes and trainers.
+ It has the bookings, a small admin panel, and it sends reminders.
+ Did you do it alone?
+ Yes, alone. I also made a landing page for a freelance client, and a Discord bot for a community as a hobby.
+ The gym one is the real one, people actually use it.
+ Okay. Do you code everything yourself, or do you use AI?
+ I use AI a lot, honestly. But I read the code and I fix it myself, I don't just paste blindly.
+ If I don't understand something I ask the AI to explain it, then I check the docs.
+ From one to ten, how do you rate yourself at using AI to build?
+ Maybe seven. I'm comfortable but I know I can get better at prompting and structuring big projects.
+ Which AI tools, and which model for what?
+ I use Cursor mostly. For small edits I use a cheaper, faster model, but for architecture or hard bugs
+ I ask Claude, the bigger model, because it reasons better. For quick questions sometimes just the chat.
+ And how do you know the AI is not giving you a wrong answer?
+ I run it and test it first. And if it's an idea or a plan, I compare it with what I already know,
+ or I search how other people solved it. If it looks strange I ask it to explain why.
+ Okay, let me give you a situation. A client wants a scalable e-commerce website,
+ around one hundred thousand users a month. You have all the AI you want, thirty days, and you are alone.
+ Is it realistic, and how do you start?
+ Thirty days alone, fully scalable... it's very hard, honestly. With AI maybe a working version, but not perfect.
+ How would you start? Walk me through it.
+ First I take the client requirements and I give them to the AI as context, all of them.
+ Then I ask it to propose an architecture, and I pick the stack myself, probably FastAPI and Postgres.
+ I would make a plan, then write the main database models first, then the API, and the frontend last.
+ Before any code, what happens first?
+ I make the plan and the database schema first. I don't start with the screens.
+ What is the AI's job here, and what is your job?
+ The AI writes a lot of the code and suggests options, but I decide the structure, and I check everything,
+ I'm the one who chooses. The AI is like a fast junior, I am the one responsible.
+ Good. Now say you are ninety percent done, seven days left, and the database can't handle five hundred users.
+ What do you do?
+ First I look at the slow queries, and I add indexes. Then maybe caching, with Redis, for the heavy reads.
+ If the schema itself is wrong then it's a bigger problem, I would have to refactor the models, which is bad
+ with seven days. So I would try indexing and caching first, and load test it before saying it's fixed.
+ Okay, that's reasonable. Let me tell you about us now. We are a product team,
+ we build our own products and also support a recruiting company, and we have an LMS launching soon.
+ Everyone here uses AI heavily, we give you the subscriptions, we care about how fast and well you work,
+ your discipline, your contribution. There is a one month paid trial first. What do you think?
+ It sounds interesting. I like building different kinds of things, not only one.
+ I think the trial is fair, I would want to try.
+ Great, we have a few more candidates, we will contact you in a few days. Thank you, Jasur.
+ Thank you.

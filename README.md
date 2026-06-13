@@ -32,7 +32,13 @@ adapters/
   codex.md                # Wire into OpenAI Codex CLI
   openclaw.md             # Wire into OpenClaw
   hermes.md               # Wire into Hermes
+examples/
+  transcript-sample.txt   # Synthetic interview transcript (fictional candidate)
+  sample-report.md        # The report Sigma Interviewer produces from it
 ```
+
+## See it in action
+[`examples/transcript-sample.txt`](examples/transcript-sample.txt) is a fictional interview (no real candidate), written in the same no-speaker-label, forced-English style real transcripts come in. [`examples/sample-report.md`](examples/sample-report.md) is the full report the skill produces from it — per-candidate card, the 0–100 core-question breakdown, signature moments, verdict, and how it rolls into a comparative ranking.
 
 ---
 
