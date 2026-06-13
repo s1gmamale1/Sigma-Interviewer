@@ -1,0 +1,27 @@
+# ── Candidate PII: NEVER commit ──────────────────────────────
+# Audio recordings
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+# Transcripts & working data
+candidates/
+transcripts/
+wav/
+*.uztr.txt
+*.transcript.txt
+# Whisper logs
+*.log
+
+# ── Models (large binaries) ──────────────────────────────────
+*.bin
+models/
+
+# ── OS / editor cruft ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
