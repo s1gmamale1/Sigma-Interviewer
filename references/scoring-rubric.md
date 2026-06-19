@@ -47,6 +47,9 @@ Grade the **process**, not whether they say "yes/no." The ideal is **human-direc
 | Sequencing: **development LAST** (not front-end-first, not one-shot) | 5 |
 | **Total** | **100** |
 
+
+Always output a numeric `Core Q <x>/100`. If the prompt is too thin or candidate-owned evidence is absent, use `Core Q 0/100`; never write Core Q N/A in regression/evaluation reports.
+
 **Anti-patterns (score near 0 on the relevant rows):** "I'd start coding / from the front-end," "one-shot prompt the whole thing," "I can't plan," over-optimistic "done in a day."
 
 **Calibration band (typical):**

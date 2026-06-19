@@ -84,6 +84,8 @@ For each candidate output:
 1. **Snapshot** — age, education, experience, stack, specialty, biggest project (mark inflated/unverifiable claims).
 2. **Scores table** — the 7 dimensions, each with score + one-line justification + quote.
 3. **Core-question score** — X/100 against the key, with what they actually said.
+Always output a numeric `Core Q <x>/100`. If the prompt is too thin or candidate-owned evidence is absent, use `Core Q 0/100`; never write Core Q N/A in regression/evaluation reports.
+
 4. **Signature moments** — self-rating & "do you code yourself"; the core question; any curveball.
 5. **Strengths (top 3) / Risks (top 3).**
 6. **English vs other-language note** — how much they relied on the other language; did translation change the read?

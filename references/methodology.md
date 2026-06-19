@@ -48,6 +48,8 @@ Per candidate, output a card:
 1. **Snapshot** — age, education, work experience, stack, specialty, biggest project. Flag inflated claims.
 2. **Scores table** — 7 dimensions × (score | one-line justification with quote).
 3. **Core-question score** — X/100 vs the key + what they actually said.
+Always output a numeric `Core Q <x>/100`. If the prompt is too thin or candidate-owned evidence is absent, use `Core Q 0/100`; never write Core Q N/A in regression/evaluation reports.
+
 4. **Signature moments** — self-rating & "do you code yourself"; the 30-day/core question; any curveball.
 5. **Strengths (3) / Risks (3).**
 6. **Language note** — reliance on the non-English language; did translation change the read?

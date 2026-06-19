@@ -97,6 +97,9 @@ High at R0 = strong · climbs at R1–R2 = coachable (hire signal) · flat/defen
 | 13.5–15 | Their questions + logistics |
 After a question, **stay silent** — let them fill it. Don't teach mid-interview (it destroys measurement); save it for a 2-min debrief.
 
+
+Always output a numeric `Core Q <x>/100`. If the prompt is too thin or candidate-owned evidence is absent, use `Core Q 0/100`; never write Core Q N/A in regression/evaluation reports.
+
 ## Output formats
 **Default = Telegram-concise** (stay short, structured, factual):
 ```
