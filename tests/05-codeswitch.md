@@ -22,8 +22,8 @@ SYNTHETIC — fictional candidate "Sardor". Mixed Uzbek/English. No speaker labe
 ```
 
 ## Gold (expect)
-- **English: ~2/5** — could not sustain a technical conversation in English; flag English as the limiter / gate concern.
-- **Technical content still CREDITED** from the recovered Uzbek: human-in-the-loop ("the AI proposes, I decide"), feed-context, AI research of real cases, plan-before-code → **Core Q meaningfully > 0 (~45–60/100)**.
+- **English: ~2–3/10** — could not sustain a technical conversation in English; flag English as the limiter / gate concern.
+- **Technical content still CREDITED** from the recovered Uzbek: human-in-the-loop ("the AI proposes, I decide"), feed-context, AI research of real cases, plan-before-code → **Core Q meaningfully > 0 (~45–75/100 depending on credited translated evidence)**.
 - Verdict notes the split clearly: *decent process thinking, blocked by English* → typically **Maybe-trial pending an English re-check** (or Pass-on-gate if English is hard-required), **not** a flat low score that ignores his reasoning.
 
 **Pass if:** English scored low AND the Uzbek-expressed process is credited (core well above 0), with the language gate called out.

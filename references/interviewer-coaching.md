@@ -22,11 +22,17 @@ Use both. Funnel each: broad → "why?" → "what would you do differently?"
 ## Question bank by trait
 - **Real building:** "Walk me through something you built. What was *your* part? What broke, what did you do?"
 - **AI fluency:** "Take your last task — exactly how did you use AI? Which model, why, what did your prompt look like, how did you verify it?"
+
+## AI-workflow probe (ask every candidate)
+- **AI fluency (required probe):** "Take your last task — exactly how did you use AI? Which model, why, what did your prompt look like, how did you verify it?"
+- **English-as-collaboration probe:** "In what language do you actually code with AI? Give one example of a difficult bug you explained to AI and what you asked it to do."
+- **Model/skill evidence probe:** "Show one example where AI gave a wrong result and what you did next."
+- **Depth follow-up:** "What did you keep human-only in your process that AI could not do well yet?"
 - **Learning agility:** "Something technical you taught yourself in the last 3 months — how, how long?" / "A mistake that changed how you work today." (Listen for reflection, feedback-seeking, behavior change.)
 - **Discipline / punctuality:** "A stretch with several deadlines and not enough time — what did you actually do?"
 - **Decision-making:** "A decision you made with incomplete information — how did you decide, what happened?"
 - **Self-awareness / integrity:** "Rate yourself 1–10 at X — now convince me with a specific example," then probe the gap.
-- **Coachability:** give a small correction live and watch if they integrate it; "Feedback that was hard to hear — what did you do with it?"
+- **Coachability:** Give a small correction live and watch if they integrate it; "Feedback that was hard to hear — what did you do with it?"
 
 ## Common biases to watch in yourself
 - **Halo / horn:** one trait (charm, a brand-name school) dominates the whole rating.

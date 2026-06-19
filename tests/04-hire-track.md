@@ -37,10 +37,10 @@ SYNTHETIC — fictional candidate "Dilnoza". No speaker labels.
 ```
 
 ## Gold (expect)
-- Overall ≈ **4.0–4.4 / 5**
+- Overall ≈ **8.0–8.8 / 10**
 - **Core Q ≈ 75–85/100** (strong band) — hits human-in-loop ("I drive it… I decide"), feed-context, AI research of real cases, red-team ("assume payments fail, what breaks?"), plan-before-code, stack+resources, dev-last.
 - **Fit: HIRE-TRACK** + "needs human approval"
-- English **5**; honest self-rating (8/10, backed); realistic about feasibility.
+- English **9–10/10**; honest self-rating (8/10, backed); realistic about feasibility.
 
 **Pass if:** core ≥ 70 and **Fit = Hire-track** (proves the ceiling fires).
 **Fail if:** it caps her at Maybe-trial / can't exceed ~65 despite a clearly strong answer → the agent is too stingy; recheck anchors.

@@ -9,7 +9,7 @@ Interviewer: ____________________   Recording/notes ref: _______________________
 ENGLISH GATE (required?  Y / N):   PASS / FAIL      note: ____________________
 
 ────────────────────────────────────────────────────────────────────────────
-DIMENSION                       SCORE (1–5)   EVIDENCE (quote / observation)
+DIMENSION                       SCORE (0–10)  EVIDENCE (quote / observation)
 ────────────────────────────────────────────────────────────────────────────
 English                         [   ]         _________________________________
 Behaviour / communication       [   ]         _________________________________
@@ -30,10 +30,15 @@ CORE QUESTION  ("scalable build, 30 days, solo — realistic & how to start?")  
   [ ]/5   development LAST (not front-end-first / one-shot)
   CORE TOTAL: [    ]/100
 
-DYNAMIC ASSESSMENT — hint-ladder rung reached: R0 / R1 / R2 / R3
-  Climbed with push?   Fast / Slow / Flat / Defensive       → coachability: ____
-
 SELF-RATING CHECK — claimed: ___/10   backed by evidence?  Yes / Partly / No
+
+AI WORKFLOW TRACE (must include candidate quote for each)
+  Model/tool used: _________________________   Why chosen: ___________________
+  Prompting approach: _______________________   Verification method: _______________
+  What changed after result review: __________   Fallback on errors: _______________
+  AI-English communication quality:
+   - Understands questions in English: Yes / No / Limited
+   - Needed correction / repetitions: High / Medium / Low
 
 ────────────────────────────────────────────────────────────────────────────
 STRENGTHS (3):                          RISKS / FLAGS (3):
@@ -41,11 +46,16 @@ STRENGTHS (3):                          RISKS / FLAGS (3):
 2. ___________________________          2. ___________________________
 3. ___________________________          3. ___________________________
 
+DYNAMIC ASSESSMENT — hint-ladder rung reached: R0 / R1 / R2 / R3
+  Climbed with push?   Fast / Slow / Flat / Defensive       → coachability: ____
+
 Inflated / unverifiable claims: ___________________________________________
 Language reliance (English vs other): _____________________________________
+Transcript mismatch risk (CV English claim vs speech): _______________________
 
-OVERALL: ___/5      FIT:  Hire-track  /  Maybe-trial  /  Pass
+OVERALL: ___/10      FIT:  Hire-track  /  Maybe-trial  /  Pass
 Confidence: High / Med / Low      Caveats: _________________________________
+Decision rule applied: Pass (<6.0) / Maybe-trial (6.0–6.5 + manager approval) / Hire-track (7.0+)
 Bottom line (2 sentences): ________________________________________________
 ```
 

@@ -9,17 +9,17 @@
 - Also: a freelance landing page and a hobby Discord bot.
 - No professional/team experience yet (student + freelance only).
 
-## Scores (1–5)
+## Scores (0–10)
 
 | Dimension | Score | Justification (quote) |
 |---|---|---|
-| English | **4** | Sustained English with only minor slips, no fallback — *"It sounds interesting. I like building different kinds of things."* |
-| Behaviour / communication | **4** | Honest and non-defensive; volunteers limits — *"I use AI a lot, honestly. But I read the code and I fix it myself, I don't just paste blindly."* |
-| Response completeness | **3** | Answers land but several needed a nudge to reach depth (human-in-loop only emerged on a follow-up). |
-| AI knowledge | **3** | Practical, with real model trade-offs — *"for architecture or hard bugs I ask Claude, the bigger model, because it reasons better"* — and a verification habit. |
-| Critical thinking | **4** | Handled the failure curveball methodically — *"I look at the slow queries, and I add indexes. Then maybe caching, with Redis ... load test it before saying it's fixed."* |
-| Decision-making | **3** | Owns the call — *"I decide the structure ... I am the one responsible"* — but it surfaced after prompting rather than up front. |
-| Architecture / system design | **4** | Correct build order — *"I make the plan and the database schema first. I don't start with the screens."* |
+| English | **8** | Sustained English with only minor slips, no fallback — *"It sounds interesting. I like building different kinds of things."* |
+| Behaviour / communication | **8** | Honest and non-defensive; volunteers limits — *"I use AI a lot, honestly. But I read the code and I fix it myself, I don't just paste blindly."* |
+| Response completeness | **6** | Answers land but several needed a nudge to reach depth (human-in-loop only emerged on a follow-up). |
+| AI knowledge | **6** | Practical, with real model trade-offs — *"for architecture or hard bugs I ask Claude, the bigger model, because it reasons better"* — and a verification habit. |
+| Critical thinking | **8** | Handled the failure curveball methodically — *"I look at the slow queries, and I add indexes. Then maybe caching, with Redis ... load test it before saying it's fixed."* |
+| Decision-making | **6** | Owns the call — *"I decide the structure ... I am the one responsible"* — but it surfaced after prompting rather than up front. |
+| Architecture / system design | **8** | Correct build order — *"I make the plan and the database schema first. I don't start with the screens."* |
 
 ## Core-question score — 58 / 100
 
@@ -55,7 +55,7 @@
 Sustained English throughout with minor slips and no fallback to another language — English is **not** a limiting factor here, so no Uzbek→English recovery pass was needed.
 
 ## Verdict
-**Overall: 3.4 / 5 · Fit: Maybe-trial (lean positive) · Confidence: medium.**
+**Overall: 6.8 / 10 · Fit: Maybe-trial (lean positive) · Confidence: medium.**
 Jasur is an honest, coachable, backend-leaning student with the correct build-order instinct and a real shipped product, but he's light on the research and red-teaming discipline — and the human-in-the-loop framing — that separate good from great. That's precisely the gap a one-month paid trial is designed to resolve, and his fast climb on the hint-ladder is a positive signal that he'll close it.
 
 ---
@@ -65,8 +65,8 @@ The per-candidate cards roll up into one table (other rows below are **illustrat
 
 | # | Candidate | Eng | Behav | Complete | AI | Crit | Decision | Arch | Core/100 | Overall | Fit |
 |---|---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|---|
-| 1 | *Dilnoza* (illustrative) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 74 | 4.2 | Hire-track |
-| 2 | **Jasur** (this report) | 4 | 4 | 3 | 3 | 4 | 3 | 4 | 58 | 3.4 | Maybe-trial |
-| 3 | *Bekzod* (illustrative) | 2 | 2 | 2 | 2 | 2 | 1 | 2 | 18 | 1.8 | Pass |
+| 1 | *Dilnoza* (illustrative) | 8 | 8 | 8 | 8 | 8 | 8 | 74 | 8.4 | Hire-track |
+| 2 | **Jasur** (this report) | 8 | 8 | 6 | 6 | 8 | 8 | 58 | 6.8 | Maybe-trial |
+| 3 | *Bekzod* (illustrative) | 4 | 4 | 4 | 4 | 4 | 2 | 2 | 3.6 | Pass |
 
 **Recommendation pattern:** lead with the evidence-backed ranking, then *stress-test the hiring manager's lean* rather than confirming it — e.g., flag any candidate whose confident delivery outran their demonstrated substance.
